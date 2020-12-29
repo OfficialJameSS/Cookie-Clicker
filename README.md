@@ -8,7 +8,7 @@ This is Cookie-Clicker.
 |
 |
 |
-|        Please, don't scroll down :|
+|        Please, stop :|
 |
 |
 |
@@ -28,7 +28,7 @@ This is Cookie-Clicker.
 |
 |
 |
-|        Stop this scrolling! OK?
+|        Stop! OK?
 |
 |
 |
@@ -52,7 +52,7 @@ This is Cookie-Clicker.
 |
 |
 |
-|         Last time, stop this scrolling!
+|         Last time, stop!
 |
 |
 |
